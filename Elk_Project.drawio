@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T00:23:45.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="oShK05xIhwfNPDWAbv5C" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T01:04:50.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="8BkKShcnjtK1UQ6VWIkr" version="13.8.1" type="github">
   <diagram id="AAk0k06g9PooCZAVuQ_7" name="Page-1">
     <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="ZIlktqNgilmde9WsrKga-12" value="Web-01&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="420" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZIlktqNgilmde9WsrKga-24" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#FF0000;fillColor=#FFFF00;" vertex="1" parent="1">
+        <mxCell id="ZIlktqNgilmde9WsrKga-24" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="506" y="297.9" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="ZIlktqNgilmde9WsrKga-25" value="Red-Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
